@@ -32,4 +32,4 @@ Melody CLI is a versatile command-line music player that brings the power of You
 
 ![Bike Study](/assets/img/melody.png)
 
-- [My Blog](https://medium.com/@pythonicforge)
+<p align="center"><a href="https://linktr.ee/pseudopythonic">LinkTree ☘️</a></p>
