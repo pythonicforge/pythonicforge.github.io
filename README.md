@@ -18,8 +18,6 @@
 
 Peripheral Killing System is a Python project designed to eliminate the use of mouse and keyboard by allowing users to control their computer's input functions using hand gestures. The project utilizes OpenCV and MediaPipe libraries to detect and track hand movements, enabling users to interact with their computer in a more intuitive and hands-free manner.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
 ### Dev-Craft
 [GitHub](https://github.com/pythonicforge/Dev-Craft)
 
