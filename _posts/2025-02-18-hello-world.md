@@ -3,6 +3,8 @@ layout: post
 title: "Hello World 👋"
 date: 2025-02-18
 categories: AI ML
+author: "Hardik Jaiswal"
+tags: [Blogging, AI]
 ---
 
 ![img](/assets/img/blog_img/hello-world.png)
