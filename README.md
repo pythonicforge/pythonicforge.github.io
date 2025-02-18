@@ -1,6 +1,7 @@
 # Full Stack Developer and AI-ML Enthusiast
-
 #### Technical Skills: Python, JavaScript, ReactJS, React Native, Java
+<a href="{{ site.baseurl }}/blog/">Read My Blog</a>
+
 
 ## Education
 - B.Tech, Computer Science | Netwon School Of Technology (_August 2028_)								       		
