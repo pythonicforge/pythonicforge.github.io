@@ -118,5 +118,7 @@ Now that I have this running, I’m moving everything to Jupyter and packaging i
 
 Also, writing this blog post because I *need* to document this rollercoaster of a journey. 
 
+[Check out my MNIST classifer](https://github.com/pythonicforge/ml-journey/tree/data-science/projects/MNIST%20with%20NumPy)
+
 Till next time, happy coding! 🚀
 
