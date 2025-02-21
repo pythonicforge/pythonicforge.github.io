@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NumPy & Jupyter Notebook: The Power Duo You Never Knew You Needed! 🚀"
-date: 2025-02-19
+date: 2025-02-20
 categories: Data Sciemce
 author: "Hardik Jaiswal"
 tags: [NumPy, Jupyter, python, Data Science]

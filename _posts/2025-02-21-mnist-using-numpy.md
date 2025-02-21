@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Built an MNIST Classifier with 0% Expertise (And It Works!)"
-date: 2025-02-19
+date: 2025-02-21
 categories: Data Science and ML
 author: "Hardik Jaiswal"
 tags: [NumPy, Jupyter, Python, Neural Networks]
